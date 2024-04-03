@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@fancyapps/ui": "^5.0.33",
+    "canvas-confetti": "^1.9.2",
     "vitepress": "^1.0.0-rc.44"
   },
   "devDependencies": {

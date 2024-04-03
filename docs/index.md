@@ -8,6 +8,7 @@ head:
 #   name: 码上学习
 #   text: 求知若渴，虚心若愚！
 ---
+
 <SpotlightCursorText>
   <div class="">求知若渴&nbsp;&nbsp;虚心若愚</div>
 </SpotlightCursorText>
