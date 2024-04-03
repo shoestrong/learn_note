@@ -4,6 +4,7 @@
 - [driver.js](https://github.com/kamranahmedse/driver.js) 用户引导
 - [sortablejs](github.com/SortableJS/Sortable) 表格排序
 - [drag-and-drop](https://github.com/formkit/drag-and-drop) 拖拽
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) 爆炸效果、碎片、五彩纸屑
 
 ## 日期库
 - [timeago.js](https://github.com/hustcc/timeago.js) 时间转换 很久以前

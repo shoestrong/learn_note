@@ -34,6 +34,7 @@ watch(() => route.path, (n, o) => {
 onMounted(() => {
   document.addEventListener('scroll', () => {
     const percentage = (window.scrollY / (document.body.scrollHeight - window.innerHeight)).toFixed(2);
+    // 379 是曲线的长度
     document.documentElement.style.setProperty("--offset", `${-379 + (percentage * 379)}`);
     if (percentage == 1 && !isBound.value) {
       isBound.value = true
